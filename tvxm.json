@@ -1,16 +1,9 @@
-// 本地接口 http://v.looktv.vip/cat/协议 简易设定流程：
-// 升级猫影视TV至 2.1.1 Beta5
-// 设置 --> 存储权限 --> 允许
-// 将 xm.zip 解压缩至"根目录"
-// 设置 --> 当前接口配置 --> 直接黏贴底下的 配置接口设定 或是也可以 透过扫码或浏览器访问网址 --> 设置配置接口
-// 配置接口设定 --> http://v.looktv.vip/cat/localhost/xm/xm.json
-//http://v.looktv.vip/cat/tangsan99999/tv/live.txt
-
+//https://gh.fakev.cn/xyskwjy/json/blob/main/live.txt
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"http://v.looktv.vip/cat/xm/0701.jar",
+"spider":"https://gh.fakev.cn/xyskwjy/json/blob/main/0701.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=aHR0cDovL3YubG9va3R2LnZpcC9jYXQveG0vdHYvbGl2ZS50eHQ="
